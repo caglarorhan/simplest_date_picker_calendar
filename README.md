@@ -1,2 +1,2 @@
 # simplest_calendar
-Simplest Calendar - pure css and pure js
+Simplest Date Picker Calendar - pure css and pure js
